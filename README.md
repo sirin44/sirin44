@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirin44
+- 👋 Hi, I’m sirn poul
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
